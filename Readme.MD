@@ -2,7 +2,7 @@
 
 This is a react weather app that displays the average temperature, pressure and humidity for five days.
 
-Live version here:
+Live version here: https://reactredux-weatherapp.herokuapp.com/
 
 ## Skills Used
 
@@ -15,7 +15,7 @@ Live version here:
 
 These instructions will get you a copy of the project up and running on your local machine for development.
 
-Clone the repository from here:  or Download the Zip file to your machine.
+Clone the repository from here: https://github.com/FaisalAli19/ReactReduxWeatherApp.git or Download the Zip file to your machine.
 
 ### Prerequisites
 
